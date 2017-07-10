@@ -6,7 +6,7 @@
  * Time: 11:27
  */
 
-namespace yii2\dingtalk\models;
+namespace notifier\dingtalk\models;
 
 
 use yii\base\Model;
