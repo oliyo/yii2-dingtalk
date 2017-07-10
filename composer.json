@@ -1,0 +1,22 @@
+{
+    "name": "yii2-dingtalk/yii2-dingtalk",
+    "description": "yii2的钉钉消息扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","dingtalk"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "geminiblue",
+            "email": "1034640452@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "rmccue/requests": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "notifier\\dingtalk\\": ""
+        }
+    }
+}
